@@ -1,2 +1,2 @@
 # dots
-My config giles for ArchLinux (Qtile)
+My config Files for ArchLinux (Qtile)
