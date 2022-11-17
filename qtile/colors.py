@@ -1,0 +1,15 @@
+colors = {
+        'black': '#000000',
+        'purple': '#af3290',
+        'red': '#d22038',
+        'blue': '#373892',
+        'yellow': '#f39141',
+        'white': '#ff4499',
+        'pbg':'#fddfdf',
+        'pteal':'#defde0',
+        'ppurple': '#f0defd',
+        'pwhite':'#fcf7de',
+        'pblue':'#def3fd',
+        'pmagenta':'#ffaacc',
+        'pdpurple':'#ccb8ff',
+        }

@@ -1,0 +1,54 @@
+import:
+  - ~/.alacritty-colorscheme/themes/challenger_deep.yaml
+window:
+  padding:
+    x: 5
+    y: 5
+  class:
+    instance: Alacritty
+    general: Alacritty
+  opacity: 0.4
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+
+font:
+  normal:
+    family: Hack
+    style: regular
+  size: 10.0
+
+shell:
+  program: /bin/fish
+
+live_config_reload: true
+
+  
+# Colors (Challenger Deep)
+colors:
+  # Default colors
+  primary:
+    background: '#1e1c31'
+    foreground: '#cbe1e7'
+  # Normal colors
+  normal:
+    black:   '#141228'
+    red:     '#ff5458'
+    green:   '#62d196'
+    yellow:  '#ffb378'
+    blue:    '#65b2ff'
+    magenta: '#906cff'
+    cyan:    '#63f2f1'
+    white:   '#a6b3cc'
+  # Bright colors
+  bright:
+    black:   '#565575'
+    red:     '#ff8080'
+    green:   '#95ffa4'
+    yellow:  '#ffe9aa'
+    blue:    '#91ddff'
+    magenta: '#c991e1'
+    cyan:    '#aaffe4'
+    white:   '#cbe3e7'
